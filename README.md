@@ -1,0 +1,1 @@
+In this project, I will be creating a site which links to recipes from all across the internet! I'll be using the terminal to create new files through GitHub, push to staging, and make commits.
